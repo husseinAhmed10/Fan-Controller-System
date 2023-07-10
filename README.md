@@ -14,3 +14,7 @@ It uses an LM35 sensor to measure the temperature and a DC motor to control a fa
 -ADC Driver: This driver is used to interface with the analog LM35 temperature sensor and convert the analog signal into a digital value that can be processed by the microcontroller.
 -LM35 Sensor Driver: This driver is used to read the temperature value from the LM35 temperature sensor.
 -LCD Driver: This driver is used to display the current status of the temperature control system on an LCD display.
+
+
+**Demo**
+![](https://github.com/husseinAhmed10/Simple-Calculator/blob/main/Fan-Controller-System.gif)
