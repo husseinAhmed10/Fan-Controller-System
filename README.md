@@ -16,4 +16,4 @@ It uses an LM35 sensor to measure the temperature and a DC motor to control a fa
 -LCD Driver: This driver is used to display the current status of the temperature control system on an LCD display.
 
 **Demo**
-![](https://github.com/husseinAhmed10/Simple-Calculator/blob/main/Fan-Controller-System.gif)
+![](https://github.com/husseinAhmed10/Fan-Controller-System/blob/main/Fan%20Controller%20System.gif)
